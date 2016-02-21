@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Reece Spect Brand]]></title>
         <description><![CDATA[Reece Spect Brand]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reecespectbrand/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 23:22:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 23:27:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reecespectbrand/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ReeceSpect Brand is about to kick off in 2016, we have a lot of material for you this year. Be excited, you should be.]]></title>
             <description><![CDATA[<h1>ReeceSpect Brand is about to kick off in 2016, we have a lot of material for you this year. Be excited, you should be.</h1>]]></description>
-            <link>undefinedreecespect-brand-is-about-to-kick-off-in-2016-we-have-a-lot/index.html</link>
+            <link>https://thegrid.ai/reecespectbrand/reecespect-brand-is-about-to-kick-off-in-2016-we-have-a-lot/index.html</link>
             <guid isPermaLink="false">c1a83834-883c-4bcd-8466-0422ec290945</guid>
-            <pubDate>Sun, 21 Feb 2016 23:19:36 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 23:26:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
