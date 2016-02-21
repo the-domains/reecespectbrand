@@ -1,0 +1,28 @@
+name: reecespectbrand
+favicon: null
+layout_spectrum: 0.6453822711482644
+typography_spectrum: 0.9406050799880177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7186801619827747
+  lightness: 0.5868942872621119
+  saturation: 0.3234067491721362
+  rhythmicContrast: 0.5563732844311744
+purpose: []
